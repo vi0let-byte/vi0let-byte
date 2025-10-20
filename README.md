@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello everyone ^^
 
 <!--
 **vi0let-byte/vi0let-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
