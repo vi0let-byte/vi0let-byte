@@ -1,5 +1,7 @@
 ## Hello everyone ^^
 
+<p>I'm Emma (she/her), a first-year computer science major and developer-in-progress. I'm currently working with Python and relearning Java while I gather experience with webdev and game development! Stay tuned :D</p>
+
 <!--
 **vi0let-byte/vi0let-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
